@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.love-letter{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Young Serif', serif;
+    text-align: center;
+}
+
+.love{
+    border: 5px solid white;
+    width: 100%;
+}
